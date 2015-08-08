@@ -15,7 +15,7 @@ Collects information on all materials available in bank and inventory and decide
 ##### Challenges
 * Cannot programmatically determine which recipes a player has unlocked (As a workaround, each recipe can be un-selectable to eliminate recipes that the player does not have)
 
-## Trading Post Push Notifications for Buy/Sell Order Completion
+### Trading Post Push Notifications for Buy/Sell Order Completion
 Allows players to set a threshold on price for buy and sell orders. Software can send notifications or a daily digest summary of items.
 
 ##### Benefits/Features
